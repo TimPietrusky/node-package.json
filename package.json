@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/TimPietrusky/node-package.json/issues"
   },
-  "homepage": "https://github.com/TimPietrusky/node-package.json"
+  "homepage": "https://github.com/TimPietrusky/node-package.json",
+  "devDependencies": {
+    "coffee-script": "~1.7.1"
+  }
 }
