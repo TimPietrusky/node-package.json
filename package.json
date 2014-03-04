@@ -1,0 +1,23 @@
+{
+  "name": "node-package.json",
+  "version": "0.0.1",
+  "description": "How to create a new package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimPietrusky/node-package.json.git"
+  },
+  "keywords": [
+    "package",
+    "json"
+  ],
+  "author": "Tim Pietrusky <timpietrusky@gmail.com> (http://timpietrusky.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimPietrusky/node-package.json/issues"
+  },
+  "homepage": "https://github.com/TimPietrusky/node-package.json"
+}
